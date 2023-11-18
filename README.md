@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Steven</h1>
 <h3 align="center">A 4th year undergraduate student from Georgia State University</h3>
 
-- 🔭 I’m currently working on [SteamHub](https://github.com/Re-Drawn/SteamHub)
+- 🔭 I’m currently working on [Cryptography](https://github.com/Re-Drawn/Cryptography)
 
 - 🌱 I’m currently learning **Node.js, Docker, & Homelabbing**
 
